@@ -15,12 +15,22 @@
                         </div>
 
                         <div class="col-xs-12 col-sm-12 col-md-12">
-                            <div style="padding-left: 0;" class="col-xs-6 col-md-6">
-                                <a href="{{{url}}}">View original job desription <i class="fa fa-external-link"
-                                                                                    aria-hidden="true"></i></a>
+                            <div style="padding-left: 0;" class="col-xs-4">
+                                <a href="{{{url}}}"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;View original job desription</a>
                             </div>
-                            <div style="padding-right: 0;" class="col-sm-6 col-md-6 text-right">
-                                <a href="#{{{id}}}">Get shareable link <i class="fa fa-link" aria-hidden="true"></i></a>
+                            <div style="padding-right: 0;" class="col-xs-8 text-right">
+                                <a href="#{{{id}}}"><i class="fa fa-link" aria-hidden="true"></i>&nbsp;Get shareable link</a>
+                                &nbsp;
+                                <div class="btn-group div-report-btn">
+                                    <button class="btn btn-default dropdown-toggle fa fa-flag-o" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="report-btn-font-body">Report this job...</span>
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu dropdown-menu-right">
+                                        <li><a href="#">I think this job is not remote...</a></li>
+                                        <li><a href="#">I think this job belongs into different category...</a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                         <span class="detailFooter">&nbsp;</span>
