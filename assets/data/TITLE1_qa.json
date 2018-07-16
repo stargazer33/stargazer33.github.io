@@ -1,6 +1,76 @@
 {
  "items": [
   {
+    "id": "HAixeNAQTuGNLqROnngjAw",
+    "url": "https://remote.co/job/quality-assurance-tester-9/",
+    "title": "Quality Assurance Tester",
+    "tags": [
+      "DBG:surround``remot W OR(career,first)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/qa",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 5:31:55 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Quality Assurance Tester at <span>ReCharge</span></h2><div><span><i></i> Remote</span>        </div><div>            <ul><li>at ReCharge</li><li><strong>Remote</strong></li></ul><p>We’re looking for a&nbsp;<strong>Quality Assurance Tester</strong>&nbsp;to join a small team that works on a SaaS user experience used by millions of people every month and powers over ten thousand online stores.<strong>&nbsp;The QA Tester&nbsp;</strong>is responsible for developing comprehensive test cases and test plans, and tacking issues to ensure that software releases do not contain defects. The tester also schedules software deployments to minimize impact.</p><p><strong>Responsibilities:</strong></p><ul><li>Coordinates and schedules releases to QA, UAT, and Production sites.</li><li>Deploys and tests software updates in the QA site.</li><li>Documents comprehensive, thorough test plans and test cases for new updates, plus regression testing.</li><li>Evaluates internal and external testers for user acceptance testing. Evaluates issues that users encounter during user acceptance testing to determine impact.</li><li>Performs validation testing for software updates.</li><li>Analyze, triage, and document all issues discovered during testing. Verify and close issues resolved during the release cycle.</li><li>Track and reports on software defects, enhancement requests, and release statuses.</li></ul><p><strong>Requirements:</strong></p><ul><li>2+ years experience as Quality Assurance tester and implementing various software QA methodologies or relevant application specific experience.</li><li>Experience and knowledge of the software life cycle and testing practices</li><li>Demonstrate hands-on experience writing test cases and test scripts</li><li>Excellent written and verbal communication skills. Ability to communicate clearly and concisely.</li><li>Detail oriented with strong analysis, problem-solving and critical thinking skills.</li><li>Ability to work effectively, independently, and with others in a collaborative, deadline-sensitive environment.</li><li>Ability to adapt to various project types, documentation types, and shifting priorities. Must be able to manage multiple projects simultaneously.</li></ul><p><strong>About ReCharge:</strong></p><p>We have two missions at ReCharge: make it easy for people to sell subscription products online, and make our company an amazing place to work. The first mission began as three people working out of a small apartment, trying to solve one of the biggest problems facing Shopify merchants: recurring payments. Now we’re at the forefront of recurring billing software, empowering thousands of entrepreneurs to sell their products as subscriptions, and processing tens of millions of dollars in sales every week.</p><p><strong>Our culture is remote-first and we stay connected every day using Slack and video chat.&nbsp;</strong>Being part of a small, fast-growing company is exciting: the opportunities to grow and take ownership at ReCharge are endless and we’ll make sure you have everything you need to do your best work and make a big impact.</p><p><em><strong>ReCharge is an equal opportunity employer.</strong>&nbsp;We welcome and encourage diversity in the workplace regardless of race, gender, religion, age, sexual orientation, gender identity, disability or veteran status.</em></p>        </div><div>        <a href='https://boards.greenhouse.io/recharge/jobs/4047194002' rel='nofollow'>Apply for job</a>    </div>"
+  },
+  {
+    "id": "1vHLrgUKRi6KZnvGde_JSA",
+    "url": "https://whereverjobs.com/listing/3552/quality-assurance-qa-analyst",
+    "title": "Quality Assurance (QA) Analyst",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:wordpress/php/20",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=20, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/php",
+      "TITLE1/qa",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "php"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 5:02:16 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Quality Assurance (QA) Analyst</h3><div>Company: Modern Tribe<br><br></div><div>                                <div><h2><span>The Opportunity</span></h2></div><div>Modern Tribe’s QA team works on a lot of cool projects: over the past year alone, we’ve tested sites built by our dev team for big-name clients including Columbia Law School, Bon Appetit Magazine, Eventbright Academy Blog, Harvard Law School and What Should We Do (WSWD). (Want to see how we did? The links above highlight some of our work). And that’s not even including our family of WordPress plugins led by The Events Calendar.</div><div><br></div><div>We’ve got a slew of cool projects we are working on in 2018, and need another member for our QA team. If working on high-profile sites for large clients gets you excited and a serious case of attention to detail is your jam, we should talk</div><div><br></div><div><h2>Responsibilities</h2></div><div>QA is responsible for ensuring all aspects of quality at Modern Tribe. It’s a tall order for sure: learning how a site works, creating test plans covering obscure use cases, and then putting it all into practice when testing every aspect of site functionality…it’s a lot of ground to cover. But we’ve got an established workflow down that helps make sure we’re setting the team up with the tools they need to proceed and succeed.</div><div><br></div><div>Though every project is different, here’s the gist of our QA flow:</div><div><br></div><ul><li><span>KICKOFF MEETING.&nbsp;</span>Just a kickoff — meet the PM; get your questions answered; set expectations; and schedule milestones.</li><li><span>PREPARING DOCS.&nbsp;</span>Getting started with internal documentation early is hugely important to getting the project into your brain.</li><li><span>REVIEW APPROVED COMPS.&nbsp;</span>Before you start QA or even get a walkthrough, you’ll review the comps to understand the project + prepare a list of questions to ask on the QA walkthrough.</li><li><span>QA WALKTHROUGH.&nbsp;</span>Once development is far enough along for QA to begin, you’ll do a walkthrough with the lead developer to get an overview of the functionality.</li><li><span>PREPARE QA CHECKLIST + TEST PLAN.&nbsp;</span>After seeing each component of the site in action, you’ll put together a first draft at a comprehensive QA checklist and a higher-level overview of what you’re planning to test, in what order, and when.</li><li><span>HEAVY DUTY TESTING.&nbsp;</span>You’ll put the site through its paces and give it a few rounds of full pass bug hunting. Beyond just hitting buttons, you’ll be thinking from a higher level: are there usability concerns? Does what we’re doing here actually make sense as the best way to solve the problem? etc.</li><li><span>CELEBRATING A SUCCESSFUL LAUNCH.&nbsp;</span>What feels better than kicking back after a successful launch? If QA has done their job, the project will launch smoothly, the team will have a finished product to show off, and — most importantly — the client will be happy. It doesn’t get much better than that.</li></ul><div>* Our QA team also generally leads client training and prepares training documentation/videos when appropriate, so be prepared for some direct client communication.</div><div><br></div><div><h2><span>Personal Competencies</span></h2></div><ul><li>Strong communication and/or experience working as part of a remote team</li><li>Self-motivated, detail-oriented, strong organizational skills, with a methodical approach to all tasks</li><li>Ability to prioritize workloads and meet deadlines</li><li>Ability to work independently with minimal oversight</li><li>Fluent English speaker</li></ul><div><h2><span>Required Knowledge &amp; Experience</span></h2></div><ul><li>Has a proven track record in Quality Assurance.</li><li>Pays meticulous attention to detail + fights for the customer. Being able to catch bugs is huge, but it isn’t everything — QA is most effective when it puts itself in the customer or end user’s shoes.</li><li>Knows WordPress well, you’ll be expected to prove your familiarity with the platform.</li><li>Excellent verbal, non-verbal and written communication skills</li><li>Has 1+ year remote freelancing experience.</li></ul><div><h2><span>Additional Experience (Bonus Points)</span></h2></div><ul><li>Familiarity setting up local WordPress environments + cloning GIT repositories locally</li><li>Skills at training others how to admin complex WordPress sites/projects</li><li>Experience writing and implementing automated testing processes</li></ul><div><h2><span>Location</span></h2></div><div>Work from anywhere in the US or Canada; if you are in Central or South America, let’s talk. This will be a 100% remote position. If your working hours are in a timezone outside of the US range, but you work 4+ hours of overlap each day our team might be able to consider your application.</div><div><br></div><div><h2>Compensation</h2></div><div>Our hourly rate for this gig starts at&nbsp;<span>$25-$35/hr</span>, depending on experience, with opportunities for rate bumps on annual review. This gig is about&nbsp;<span>8 hours</span>&nbsp;per week of work to start and ramping up to about 15 -20 hours over the next 2 -3 months. This is a one time contract position, though we are always seeking longer relationships with kick-ass people.</div><div><br></div><div><h2>Inclusion Statement</h2></div><div>Modern Tribe is committed to a culture that embraces diversity and inclusion. We foster an environment of collaboration, open engagement, fairness and respect regardless of differences in age, race, disability, national origin, gender identity, religion, sexual orientation or veteran status. As a hybrid workspace ranging from distributed contractors to traditional employees, we value the unique perspectives and experiences of our global team.</div><div><br></div><div>We come from all walks of life. We are small business owners. We are tattoo aficionados and 80’s movie buffs and ex-pats. We are homeschool teachers. We are single parents. We are musicians, college drop-outs, and entrepreneurs. We are travelers, feminists, runners, volunteers, and makers. We are a Modern Tribe.</div><div><br></div><div>Everyday we strive to fulfill our motto: live well and do good work. We hope you will consider joining us.</div><div><br></div><div><h2><span>Perks</span></h2></div><div>We believe in learning from each other and fostering personal growth. You can expect to learn a lot while working with us and we have a benefits package for full time employees.</div><div><br></div><div>(Also, if you work enough with us, we’ll bring you on the&nbsp;<a href='https://vimeo.com/254214062' rel='nofollow'></a><a href='https://tri.be/blog/team-trip-2018/' rel='nofollow'>team trip</a>.)</div><div><br></div><div><h2><span>Who We Are</span></h2></div><div>Modern Tribe, Inc. is a rapidly growing software &amp; design company. We develop custom solutions for some of the world’s largest companies, government institutions and smaller growing organizations. We pride ourselves on our ability to bridge people and technology and to bring the passion and dedication of an entrepreneur to every project. Our team is composed of talented employees and freelancers around North &amp; South America (and a smattering across the globe).</div><div><br></div><div><h2><span>Who You Are</span></h2></div><div>We love working with each other because we have built a culture that suits us well. We work primarily with freelancers and coordinate their talents for large projects. To be on our team, you must be:</div><div><br></div><ul><li><span>HAPPY -&nbsp;</span>Where there is a will, there is a way. Having a positive disposition allows us to achieve great things and to support each other.</li><li><span>HELPFUL -&nbsp;</span>Always looking for ways that you can help others.</li><li><span>CURIOUS -&nbsp;</span>It is essential that you have a passion for learning. Technology changes daily, and life has a way of constantly raising the bar.</li><li><span>ACCOUNTABLE -&nbsp;</span>Our clients expect us to get the right thing done on budget and on time. Communicating expectations and meeting them is the cornerstone of success.</li></ul>            </div><div>How to apply:<br><a href='https://modern-tribe.breezy.hr/p/b481f0511faf-quality-assurance-qa--analyst?sourceWhereverJobs' rel='nofollow'>modern-tribe.breezy.hr/p/b481f0511faf-quality-assurance-qa--analyst</a></div>"
+  },
+  {
     "id": "khzr-YYfRf2djtHUa2pOng",
     "url": "https://remoteok.io/jobs/68050",
     "title": "Mobile QA Engineer",
@@ -2691,40 +2761,6 @@
     "published": "May 17, 2018 7:04:22 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div>  <div>    <h2>Freelance Software QA Tester - iPhone iOS</h2>      <h4>Posted May 17</h4>    <h3>      <span>test IO</span><br>      <span>Headquarters: Remote</span><br><br>      <a rel='nofollow'>View all test IO jobs →</a>    </h3>  </div>    </div>  <div>    <div>You'll be working as a freelance tester using your iPhone iOS (models 7, 8, or X), with opportunities to participate in test runs at your own discretion. You don't need to have experience in software QA (though you'll get up to speed faster if you do), but you'll need to stick with it if you've never done it before. If you haven't tested before, here are some key success factors:</div><div><br></div><ul><li>You read instructions and understand them. If the instructions say that something is out of scope and you test it, you’re wasting your own time.</li><li>You communicate precisely in English. Bug reporting is a particular form of communication that demands precision, concise wording, and logical ordering.</li><li>You are curious. The best testers aren’t robots who follow a script. They like things that seem mysterious. They deviate from the Happy Path. They like to experiment with apps.</li><li>You spot patterns. Similar bugs occur in unrelated software systems, so being able to sense patterns is very helpful.</li><li>You like games. There does seem to be a high degree of overlap between testers and gamers. Part of it is the thrill of the hunt, and the desire to understand the rules of a system and how to beat them.</li></ul><div><br></div><div>When you start as a tester at test IO, you'll get coaching from team leaders, then participate in test cycles with more experienced testers. You'll get the opportunity to see the kinds of issues they find and how they find them, so you'll be able to learn as you go along.</div>  </div>  <div>    <h4>Apply for this position</h4>    <p>You can get started here: <a href='https://hello.test.io/ios/' rel='nofollow'>https://hello.test.io/ios/</a></p>  </div>"
-  },
-  {
-    "id": "Mt_3x3IHQfCqhN3CEXjobQ",
-    "url": "http://jobmote.com/jobs/10544-software-quality-engineer-3-remote-capable",
-    "title": "Software Quality Engineer 3 (Remote Capable)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:classification/bigdata-ml/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/bigdata-ml",
-      "TITLE1/qa",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "bigdata-ml"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 16, 2018 11:22:21 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Software Quality Engineer 3 (Remote Capable) - Jobmote<div><div><h2>Software Quality Engineer 3 (Remote Capable)</h2><h5>Insitu1</h5></div></div><div><div><div><div></div></div><div><div><div><p>Job Description This position will be focused on ensuring the quality of the products developed by our commercial flight software team. This is a great opportunity to get in on the ground floor in an exciting new area of technology, working on a motivated team in a spectacular location in the Columbia Gorge!<br>As a SQA Engineer you will review software documentation for testability and standards adherence to include software systems designs, specifications and plans, evaluate functional requirements, identify implementation risks and make recommendations. You will evaluate quality goals and expectations, identify testing resources and perform testing activities.<br>You will design test scenarios, scripts, or procedures, make corrective/preventative action recommendations and conduct software tests/diagnostics and verify software system requirements and testability. Identify, analyze and document software behavior and find and verify defects. Evaluate test execution against traced specifications and identify gaps. Analyze test results against expected behaviors and gather technical data and perform initial test outcome analysis<br>We are looking for an individual who wants the opportunity to:</p><ul><li>Be a key player in an agile software development team</li><li>Test complex software using industry best practices</li><li>Be responsible for assuring the delivery of high quality products and software services</li><li>Use metrics to understand process effectiveness, quality assurance and testing progress, and product quality and recommend actions</li><li>Work on leading edge products and integrations with unmanned systems</li><li>Work for a company that is a recognized leader in the Commercial UAS industry</li><li>Assess the impact of requirements, design and code changes, recommend test updates and regression testing, and execute agreed upon tests</li><li>Take responsibility for achieving goals and meeting project deadlines</li><li>Have fun in a tight knit team while working on a game changing UAS!Qualifications KEY SKILLS AND ABILTIES:</li><li>Knowledge of software quality practices, programming languages, operating systems and computing technology.</li><li>Application of technical principles, theories, and concepts.</li><li>Ability to develop solutions to routine technical problems.</li><li>Works effectively and cooperatively with others; establishes and maintains good working relationships.</li><li>Ability to write clear, concise technical prose.</li><li>Ability to apply technical knowledge and knowledge of fundamental writing skills.Prefer candidates with experience/knowledge of:</li><li>JIRA and Confluence</li><li>TestRail or other Test Management Systems.EDUCATION AND EXPERIENCE:<br>Bachelor's degree of Science from an accredited course of study, in engineering, computer science, mathematics or physics. Typical experience: 5-8 years in an engineering classification with a Bachelor's degree or 3-5 years experience in an engineering classification with a Master's degree.<br>Additional Information Insitu is an Equal Opportunity Employer of Minorities, Women, Individuals with Disabilities and Veterans.<br>I'm interested </li></ul></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
   }
 ]
 }

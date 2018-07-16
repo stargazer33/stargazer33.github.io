@@ -1,6 +1,135 @@
 {
  "items": [
   {
+    "id": "cEcX61kaQHiyGFLKKM3EWw",
+    "url": "https://stackoverflow.com/jobs/197069/full-stack-developer-c-sharp-azure-api-db-web-united-public-safety?a=145D9sZtpJi8",
+    "title": "Full Stack Developer C#, Azure, API, DB, Web at United Public Safety (Ambler, PA) ",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:ajax/frontend/3",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/10",
+      "DBG_TECH1:k/t/w:c#/dotnet/25",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=35, c=10, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=15}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 70000,
+      "maxValue": 110000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 6:31:20 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2><span>Full Stack Developer – C#, Azure, API, DB, Web</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Junior, Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                    </div>                <div>Company: United Public Safety | Ambler, PA<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                    <div>                                        <span>Employer's note:</span>                                        <span>Employees are expected in the office at least once a week</span>                                    </div>                                                                                                                                                            </div>                        </div>                    <h3>Technologies</h3><div>c#</div><div>asp.net-mvc</div><div>mysql</div><div>azure</div><div>azure-sql-database</div>                <h3>Job description</h3>                <div><p>Are you tired of living in a corporate box? Do you want to make a real, positive impact on an organization’s codebase, and know your voice is heard? At UPsafety, you’ll join a small, highly productive team churning out correct, maintainable, high-performance, modern C# to support UPsafety’s ever-growing feature set across our product lines.</p><p>You’ll work with our team of engineers, designers, and product managers to craft a cohesive experience for managers, administrators, and their officers in the field. By joining our team, you will play a significant role in the growth of our engineering effort, and have the opportunity to make a real impact, with involvement across all aspects of the SDLC.</p><p><strong>What you’ll be doing: </strong></p><ul><li>Design and develop new product features on all parts of the stack</li><li>Collaborate with design, product, and QA teams to deliver projects with measurable business results</li><li>Suggest and drive improvement on all parts of the stack and internal development processes</li><li>Help our skilled support team triage bugs and troubleshoot production issues</li><li>Learn from and mentor other engineers and participate in code reviews</li></ul><p><strong>What you should have: </strong></p><p></p><ul><li>2+ years of production experience using web technologies including C# MVC, JavaScript, CSS, Ajax, etc. to develop sophisticated web-based user interfaces.</li><li>Deep experience using relational databases, preferably using MS SQL Server including complex stored procedures.</li><li>Experience with Azure or other cloud-based hosting solutions</li><li>Experience architecting and implementing highly scalable, high throughput web applications</li><li>Background in computer science, engineering, or another related field and a strong track record of building interesting projects; Bachelors or Master in Computer Science preferred</li><li>Self-motivation and the ability to take a high-level goal and deliver shippable code.</li><li>Ability to communicate effectively and collaborate with remote team members</li></ul><p><strong>Bonus round!</strong></p><ul><li>Someone who actively considers the fine balance between shipping speed and perfection</li><li>Product mindset. You understand that building the right tools and systems impacts real users.</li><li>Ready to roll up your sleeves. Many of our projects are truly full-stack, and you might have to move from front-end to sysadmin at a moment's notice</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/197069?reset=False&amp;ra=145D9sZtpJi8&amp;oqs=a%3D145D9sZtpJi8' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About United Public Safety</h3>            <div><p>United Public Safety (<a href='http://www.upsafety.net' rel='nofollow'>http://www.upsafety.net</a>) is a leading provider of enforcement, asset tracking and records management solutions to modern governments. We are committed to the idea that government technology doesn’t have to be outdated, software doesn’t have to be complex to be smart, and that small teams can do big things. Our goal is to bring governments into the modern age by making cutting edge technology accessible to even the smallest departments. As a SaaS company, our people are truly our greatest asset, and we work daily with the mindset that our employees’ individual achievements and personal growth are the backbone of our success.</p>            </div>        "
+  },
+  {
+    "id": "y_gdsulhTgOE94bs9RlySQ",
+    "url": "http://jobmote.com/jobs/17379-senior-net-developer-sheffield-55k-flexi-and-remote-working",
+    "title": "Senior .Net Developer Sheffield-£55K- Flexi and remote working",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=37, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 11:21:13 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Senior Developer - Up to £55,000 - Sheffield - C#, JavaScript, ASP.Net, MVC, SQL - Flexitime, Remote Working Opportunities!<br><strong>The Role</strong><br>Looking for a Senior .net Developer role in Sheffield paying up to £55,000? Work for a friendly software company based in Sheffield who have built a market leading SaaS application..... click apply for full job details </p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "Od0TEm3UTGekhYW-aUxp0w",
+    "url": "https://weworkremotely.com/remote-jobs/fitabase-full-stack-asp-net-mvc-csharp-net-cloud-developer",
+    "title": "Fitabase: Full Stack ASP.NET MVC / C# / .NET Cloud Developer",
+    "tags": [
+      "DBG:surround``remot 2W OR(employe,develop,engin,candid,workmat) 2W welcom",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/24",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/32",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=103, c=6, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=23}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 15, 2018 10:51:30 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Full Stack ASP.NET MVC / C# / .NET Cloud Developer</h2><span>Company: Fitabase<br></span><span>Headquarters: San Diego, CA<br></span><span>https://www.fitabase.com<br><br></span>  <div>    <div><span></span></div><div><span>Hello! We’re Fitabase and we’re in need of a passionate full stack developer who can help code, design and lead key development areas of our cloud platform and join us as we expand our product features and market reach. We’re looking for someone who can quickly become an integral part of the way we plan and design our health sensor data platform. </span></div><div><br></div><div><span><b>Technologies we’d love you to have experience with:</b></span></div><ul><li><span>C# / .NET / ASP.NET MVC</span><br></li><li><span>SQL</span><br></li><li><span>HTML5 / Bootstrap</span><br></li><li><span>Javascript</span><br><br></li></ul><div><b><span>Tech you should be excited to get to learn more about while at Fitabase:</span><br></b></div><div></div><ul><li><span>ASP.NET WebAPI</span><br></li><li><span>Vue.js</span><br></li><li><span>Git / Github</span><br></li><li><span>Azure</span><br></li><li><span>Scalable, Distributed Microservices Systems Design</span><br><br></li></ul><div><span><b>Why You’ll Love Working with Us</b></span><br></div><div></div><ul><li><span>We use all the bleeding edge technologies. For this role you'll use VS2017 and code against the latest .NET stack combined with modern Javascript, and utilize many of the latest Azure services and offerings. </span><br></li><li><span>You will get exposure to exciting new technologies like DocumentDB, Redis, SQL Azure, App Services, Service Fabric, Service Bus, API Management, and many other PaaS servings.</span><br></li><li><span>We’re experienced software developers always looking to learn from one another, collaborating in a fast-paced small team environment.</span><br></li><li><span>You will contribute to software that improves how important health research is done. Our customers include some of the most prestigious academic universities, hospitals, and clinical care providers all over the world who are using technology in new ways not yet in literature, and you get to learn from them while helping us!</span><br></li><li><span>You’ll actually see sunlight in our lovely open work environment.</span><br></li><li><span>Your opinions will be valued and heard and you will contribute to the future direction of our product.</span><br></li><li><span>Remote candidates welcomed! Please note, there will be some travel for an initial training in San Diego and then possibly a few times per year for in person team meetings.</span><br></li><li><span>You will get a Fitbit of your choice.</span><br></li></ul><div><br></div><div><span><b>Benefits</b></span></div><ul><li><span>Health Insurance</span><br></li><li><span>Dental Insurance</span><br></li><li><span>Paid Time Off</span><br></li><li><span>Paid Sick</span><br><br></li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>Please send 1) a resume and 2) a cover letter -- we’d love one that you wrote just for us that explains who you are and why YOU are right for this job. Our Email: <a href='mailto:jobs%2Bdev@fitabase.com' rel='nofollow'>jobs+dev@fitabase.com</a></p>  </div>"
+  },
+  {
     "id": "ek_V37pDSuqZ3bFlna96lQ",
     "url": "http://jobmote.com/jobs/17299-net-developer-50-000-fully-remote-uk-based",
     "title": ".NET Developer, £50,000 - FULLY REMOTE (UK Based)",
