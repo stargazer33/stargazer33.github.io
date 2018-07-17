@@ -1,6 +1,89 @@
 {
  "items": [
   {
+    "id": "Rmj7NpbzRMuhTS_vJLSCiA",
+    "url": "https://remote.co/job/python-developer-2/",
+    "title": "Python Developer",
+    "tags": [
+      "DBG:surround``work 2W from 2W home 4W OR(staff,cowork,offic,posit)",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python-developer/python/26",
+      "DBG_TECH1:k/t/w:python/python/10",
+      "DBG_TECH1:k/t/w:reactjs/frontend/16",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=36, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=33}",
+      "REMOTE1/100",
+      "TECH1/frontend",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "frontend",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 6:31:01 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Python Developer at <span>JBS Custom Software Solutions</span></h2><div><span><i></i> Remote</span>        </div><div>            <p><strong>Required</strong></p><ul><li>3+ years working with Python</li><li>Strong knowledge of javascript</li><li>3+ years experience with Python web frameworks</li><li>3+ years working with open-source relational database systems (MySQL, PostgreSQL)</li><li>Experience with search tools such as Solr and Elasticsearch</li><li>Feels comfortable and has experience working in a Linux environment (ubuntu preferred)</li><li>Strong communication skills, both written and verbal</li><li>Ability to accurately estimate work</li><li>Commitment to provide quality completed deliverables with well-factored, maintainable code</li><li>Experience with VCS (git, hg or svn)</li></ul><p><strong>Nice To Have</strong></p><ul><li>Experience with microservices architectures</li><li>Experience with node</li><li>Experience with event based architectures</li><li>Experience in e-commerce development</li><li>Experience with NoSql databases such as MongoDB</li><li>Experience with Python Zappa</li><li>Experience building and designing REST-based web services using JSON</li><li>Experience with development operations (configuration and installation of apache/nginx/memcached/varnish, etc)</li><li>Experience with AWS (EC2, RDS)</li><li>Experience with bootstrap and/or foundation</li><li>Experience with containerization</li><li>Experience with react, react native</li><li>Experience with serverless framework</li></ul><p><strong>Welcome to our Virtual Reality: Unique Remote Work Environment</strong></p><p>At JBS,<strong>&nbsp;all of our employees work remotely from home offices.</strong>&nbsp;We cluster our staff into project teams around specific code requirements, and then set them free to do great work within specific guidelines and timetables. The combination of developer accountability and cutting edge development technologies allows us to attract the very best in the business and perform at a high level for our clients. If you are ready to reduce your commute time to zero, get out of the cubicle and anxious to stand on your own, working with great teams, apply today.</p>        </div><div>        <a href='https://www.jbssolutions.com/careers/' rel='nofollow'>Apply for job</a>    </div>"
+  },
+  {
+    "id": "b1NZxxKmRH-3r8bNPMjZlw",
+    "url": "http://workinstartups.com/job-board/job/70984/lead-full-stackfuture-cto-at-stickyworld-ltd/",
+    "title": "Lead Full Stack/future CTO",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``5N( opportun,             2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:django/python/32",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=34, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 50000,
+      "maxValue": 70000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 9:50:20 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "*Job description*<br />Stickyworld is seeking a Senior Full stack Developer for a leading role with capability to become CTO, based in the vibrant TechHub in Moorgate, on a full-time basis. Remote working is also possible.<br /><br />This is a very exciting role with the chance to break into new grounds in a revenue-generating B2B SaaS company, doubling MRR, with new products launching in 6 months for international commercial real estate customers.<br /><br />If you are looking to secure a key role in an up and coming startup, with an opportunity to lead and own the development of an innovative product and leverage excellent technology, then this would be the role for you.<br /><br />*Required experience and skills*:<br /><br />Good command of Python, Django and Django Rest Framework or have worked with other backend languages and frameworks in the past before moving to Django Good knowledge of SQL databases (MySQL, PostGres) Javascript and ideally React.js, Redux, Bootstrap, CSS but other js frameworks are ok Familiarity with Linux Ability to lead and mentor junior developers Ability to work with remote team, US, and India Good communication skills and natural leader SaaS and Enterprise software experience desirable<br /><br />*Your Role*:<br /><br />Your role will be reporting to the CEO, and supported on a monthly basis by Senior Technical Advisers and Mentors.<br /><br />You will be extending and maintaining the existing Stickyworld platform with new value adding features as we reach larger customers.<br /><br />You will provide technical leadership and consultant on roadmap mapped to development costs, business value and fundraising strategy.<br /><br />You will have the opportunity to work on cutting-edge research, for instance, you will have the opportunity to develop new micro-services in Django to extend the platform to support new media types such as 360 videos, VR, 3d models and more. This will include a lot of research into cutting edge technologies and 3rd party established service providers like Box, Google, Autodesk Forge, and other web content providers, building prototypes to demonstrate functionality.<br /><br />In delivering new features for the platform, you will be collaborating with designers, engineers customer success, and influencing component designs, implementing them and checking browser and device compatibility. You will also be working with many people across the globe, so good remote working skills are needed. You will get to work with other developers, teach and pass on knowledge and learn over time about all aspects of the Stickyworld platform. You will also have the opportunity to lead teams and remote dev houses as part of feature delivery, this requires some up front planning and often explicit detail in describing tasks for remote teams to work on.<br /><br />You’ll be working with a small team including CEO, designer/product manager, two remote engineers. You’ll be expected to take the technical lead, collaborate with remote engineers, and be supported by technical direction and mentoring from technical directors.<br /><br />*Your Responsibilities*:<br /><br />Taking a lead on the Stickyworld platform, new feature development, production issues fixing bugs and assigning tasks. Participating in technical reviews with the product team identify technical solutions. Developing new features, planning and time management. Participating and organising meetings with other developers in the team, often remotely Ensuring code quality, running code reviews with the team including with remote devs. Reviewing and learning about the platform and all aspects of the technology over time and passing on this knowledge to others and future members of the team Keeping up to date with latest web technologies and developer best practice. There will be time allocated for attending tech meetups and conferences<br /><br />*Our offer*:<br /><br />We offer a competitive salary in an emerging SaaS startup with opportunity to lead. We’re committed to continuing your learning and development and we offer a fund your attendance on courses and conferences.<br /><br />Stickyworld operates a substantial options scheme, giving you the chance to share our growth and success.<br /><br />Flexible and remote working is possible, and you’ll be expected to collaborate with engineers in our UK and Indian teams. You’ll also be expected to contribute to the company’s future direction and associate product roadmap, and we use our own product on a regular basis to consult and involve the team on new ideas and incorporation of latest technologies to help solve our customer’s problems.<br /><br />*Benefits*:<br /><br />Competitive salary to suit experience. Up to 2K technical learning and travel budget EMI share options Stakeholder Pension Remote working option for right candidates Technical mentoring and support programme from Senior Technical Non-exec directors. Friendly, open collaborative team, part of Global Techhub Community."
+  },
+  {
     "id": "p1bXTllyTqaEJH-JaRj0ww",
     "url": "https://remoteok.io/jobs/68037",
     "title": "Lead Open Source Developer",
@@ -4145,47 +4228,6 @@
     "published": "May 17, 2018 11:43:38 AM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "Summary <br />We are looking for a motivated and high-achieving Senior Python Developer based anywhere in Europe to join the team working on an exciting new Big Data/Machine Learning platform. This is a full time placement with significant opportunities for growth and advancement as one of the first employees of the company. <br /><br />The Company <br />causaLens is high-tech startup based in London. We are bringing the next level of Automation, Automated Machine Learning for time-series predictions to the World’s most sophisticated organizations. We are an extraordinary team and the founders have worked for some of the most prominent global hedge funds and scientific institutions. <br /><br />Core requirements: <br />- Smart, capable and can write clean code. <br />- Ability to design and architect high-performance distributed software. <br />- Development experience in at least one scripting language - preferably Python. <br />- Interest in machine learning/big data (prior experience plus). <br />- Knowledge of the Git version control system. <br />- Good organisational skills both in management of time and code. <br />- Ability to effectively work remotely (from home or a coworking space). <br /><br />Roles and Responsibilities: <br />Developing an automated machine learning platform for quantitative finance. The application stack is Python, Numpy, Scipy, Sklearn, Keras, Django, Celery, Postgres, AWS, GCP. <br /><br />Benefits: <br />Successful candidate will have the opportunity to join a fast-growing, agile, and international team passionate about innovation and making a difference. We will offer guidance, mentorship, and opportunities for professional development. <br />"
-  },
-  {
-    "id": "ZU9d5on_QL-s-Qdg3r7e-w",
-    "url": "https://remote.com/jobs/browse/preview/freelance-python-developer-for-eu-insurtech",
-    "title": "Freelance Python developer for EU insurtech",
-    "tags": [
-      "DBG:surround``4N( OR(look, search),     4N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
-      "DBG:surround``OR(europ, european, europeanunion) 3W OR(timezon,time)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:django/python/8",
-      "DBG_TECH1:k/t/w:flask/python/8",
-      "DBG_TECH1:k/t/w:python-developer/python/13",
-      "DBG_TECH1:k/t/w:python/python/4",
-      "DBG_TECH1:techWeightMap:{python=33, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/dev",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 16, 2018 2:16:32 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "JOB TYPE: Short Term<br /><br />EXPERIENCE: intermediate<br /><br />We are very excited to be partnering with a Swiss insurance company to field test one of our initial products.<br />Our platform is being built with Python 3 - there's Django and/or possibly Flask in the future - and we've been experimenting with serverless on AWS Lambda. <br /><br />We are looking for a remote freelance developer (ideally based in an EU timezone) that can be hands on and help us quickly iterate our product during this field testing. We expect this work to take around 10h a week initially during the month of July, but there's a possibility to extend the contract."
   }
 ]
 }

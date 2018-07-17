@@ -1,6 +1,82 @@
 {
  "items": [
   {
+    "id": "VLv4UVkpTYytyB9-Hfgd9A",
+    "url": "https://remote.co/job/data-scientist-4/",
+    "title": "Data Scientist",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/40",
+      "DBG_TECH1:k/t/w:python/python/4",
+      "DBG_TECH1:techWeightMap:{python=4, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=40, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 3:44:03 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Data Scientist at <span>Dataquest</span></h2><div><span><i></i> Remote</span>        </div><div>            <p>We’re looking for an experienced data scientist who’s passionate about online education. You’ll help us create the future of data science education online by making data a central part of of our product, marketing, and content decision making.</p><p>As our first product-oriented data scientist, you’ll have the opportunity to audit and clean up our data infrastructure, with the goal of enabling anyone in the company, even non-technical folks, to analyze and understand student data.<span>&nbsp;</span>You’ll also help us create dashboards that indicate how we’re progressing towards company and team goals.<span>&nbsp;</span>Finally, you’ll help us analyze student data to determine what features and content to create next.</p><p>We currently copy our data into Redshift via Segment and Stitch, and analyze the data with SQL and Python using Mode.<span>&nbsp;</span>This enables us to aggregate most of our product data in a single place, and enables us to do useful joins across datasources.<span>&nbsp;</span>It also gives everyone on the team the same access to data and analysis tools.</p><p>There’s significant autonomy and ownership in this role.<span>&nbsp;</span>This is the chance to make a big impact on a small team in a fast-growing bootstrapped company. You’ll have a major role in educating hundreds of thousands of students worldwide.</p><h4><strong>Responsibilities</strong></h4><ul><li>Audit and document our data infrastructure</li><li>Ensure that we’re capturing all of the data that we need to capture</li><li>Advocate for tools that make it simpler for non-technical team members to analyze data</li><li>Create dashboards that enable us to track progress towards team and organizational goals</li><li>Analyze product data to help us make more effective product decisions</li><li>Analyze marketing data to identify new marketing opportunities and optimize our marketing spending</li><li>Work closely with the rest of the team to help Dataquest become more data-driven in decision making</li></ul><h4><strong>Requirements</strong></h4><ul><li>A strong understanding of product data (events, production database data, ad spend, etc), where it comes from, and how it can best be utilized</li><li>3+ years of experience analyzing product and/or marketing data</li><li>A strong interest in mentoring and helping other team members use data more effectively</li><li>3+ years of experience with Python and SQL</li><li>Experience auditing event and data infrastructure</li><li>Experience with ETL (especially the T part!)</li><li>The ability to work with messy data and figure out the best source of truth</li><li>A strong desire to document queries and tables</li></ul><p>There’s a lot of autonomy in our roles, and our goal is to give everyone on our team the correct context and resources to make the right decisions for our students.</p><p>Working at Dataquest gives you the chance to work with a mission-focused, motivated team on an important problem.</p><h4><strong>At Dataquest, you’ll get:</strong></h4><ul><li>The opportunity to see your impact on the lives of our students every day</li><li>The chance to work with an engaged and mission-driven team</li><li>The chance to define internal processes and help a company scale</li><li>The chance to contribute to product direction and decisions</li><li>The ability to work remotely</li><li>A supportive and collaborative environment</li></ul><p>The salary range for this role is $75k USD – $95k USD per year, plus equity, and it’s a full-time remote role.</p>        </div><div>        <a href='https://dataquest.breezy.hr/p/700709187212-data-scientist?source=remoteco' rel='nofollow'>Apply for job</a>    </div>"
+  },
+  {
+    "id": "FkoRzHXsSe2yJXxF2FDUDg",
+    "url": "http://jobmote.com/jobs/17361-ui-designer-machine-learning-remote-uk-based",
+    "title": "UI Designer - Machine Learning - Remote (UK Based)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/6",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=6, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "bigdata-ml"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 9:20:41 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>UI Designer - Machine Learning - Remote (UK Based)</strong><br>Machine learning start-up looking for an experienced UI Designer to come and join the company working 100% remotely. They are looking for an individual who can deliver usable operational dashboards and utility mobile applications.<br>You will be working alongside..... click apply for full job details </p></div></div><div></div></div></div>"
+  },
+  {
     "id": "vMyBVLeeRKGDEzt8wCK0wA",
     "url": "http://jobmote.com/jobs/17173-big-data-engineer-55-000-80-000-remote-working",
     "title": "Big Data Engineer - £55,000-£80,000 - REMOTE WORKING",

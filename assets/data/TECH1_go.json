@@ -1,6 +1,54 @@
 {
  "items": [
   {
+    "id": "BwWCKbd7Rf6YOlGezMPJSw",
+    "url": "https://authenticjobs.com/jobs/30745?r=rss2",
+    "title": "Openly, Inc.: Senior Software Engineer - Go/Golang Developer",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:c/c/5",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:express/nodejs/8",
+      "DBG_TECH1:k/t/w:go/go/9",
+      "DBG_TECH1:k/t/w:golang/go/16",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=13, mobile=1, go=25, nodejs=21, bigdata-ml=10, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/go",
+      "TECH1/nodejs",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "go",
+      "nodejs"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 16, 2018 4:49:07 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<p>Full-time</p><p><strong>(Boston, MA - USA Only)</strong> </p><p>Openly is building a next-generation insurance company from the ground up. We’re questioning the way things have been done in this industry for over a hundred years with an open mind to how customers want insurance to work—everything from how insurance is quoted &amp; sold, to the back-end operations that frustrate everyone and waste money. Insurance is one of a few remaining greenfield industries, with many interesting engineering problems that need a fresh perspective.</p><p>This isn’t something we’ve undertaken on a whim—we’ve been at this for a year, and planning for several years. We know we can do this because we’re the right mix of contrarian ideas backed by subject-matter expertise. The founding team brings executive-level experience from Liberty Mutual Insurance and Goldman Sachs, with mastery in actuarial science, computer engineering, math, and finance (MIT, Duke, and the University of Michigan). You can read more about the founders <a href='https://www.linkedin.com/in/ty-harris-73a40816/' rel='nofollow'>here</a> and <a href='https://www.linkedin.com/in/matt-wielbut/' rel='nofollow'>here</a>. &nbsp;The rest of the team--the real strength of the company--are key early hires who are experts in their respective fields of statistics, actuarial science, and engineering. In aggregate, across the company, we’ve essentially built all of this before.&nbsp;</p><p>We were one of the 10 companies selected to Boston Techstars 2018 class. You can watch our <a href='https://vimeo.com/267654520' rel='nofollow'>Demo Day video here</a> to learn more about what we’re building.&nbsp;</p><p>We have a long runway and path to additional funding; we recently closed an oversubscribed round with a mix of amazing VCs and an exclusive group of angels made up of industry experts and executives.</p><p>&nbsp;</p><p><em>What kind of people do we gravitate to?</em></p><p>As a company, we place great value on curiosity, integrity, and ownership, both as character traits in members of the team, but also in the way we approach business and technical challenges. We want people who thrive in environments where they get to wear multiple hats. We’re looking for someone who wants to spend most of their time coding—a polyglot that is comfortable using multiple languages depending on the task at hand (but need not be a wizard/expert in any one language), and an autodidact who is excited to dive into a deep and quantitative subject matter. Insurance or finance knowledge is not required.</p><p><strong>We’re at a critical point in our company.</strong> Following a successful prototype, we’re now building the first production-version of everything. You will play a pivotal role in helping define everything from our engineering culture to the insurance product upon which customers will rely.</p><p>&nbsp;</p><p><em>What are the responsibilities?</em></p><p>We’re hiring for a senior engineer role. Your primary responsibility will be to develop the backend systems that power the pricing and sale of our insurance products. This includes but is not limited to:</p><ul><li>Integrating with a dozen data vendors to provide real-time information on hundreds of data points; everything from property characteristics, such as roof construction material, to weather-related data that help us predict flood risk or potential hailstorm damage.</li><li>Turning statistical models into production-quality code that can make pricing decisions, assessing a customer’s risk.&nbsp;</li><li>Build a smart qualifier that decides if an applicant is eligible to be insured, while also making sure to avoid purchasing expensive data for a lost cause.</li><li>Make important architectural and operational decisions like microservices vs. monoliths, deployment techniques, technologies, policies, etc.</li><li>Build an API to allow third-party resellers to purchase insurance from us programmatically.&nbsp;</li><li>And tons of future projects: machine learning for fraud detection, satellite/aerial imagery processing, IOT integration, etc.</li></ul><p>&nbsp;</p><p><em>What skills or qualifications would help you stand out?</em></p><ul><li>Computer science, engineering, or math-focused, college degree or equivalent experience</li><li>You’re proficient in Go/Golang, or some other compiled programming language such as Java or C/C++</li><li>You’ve written code that’s been deployed to production and used by 1,000+ strangers&nbsp;</li><li>You are a problem-solver who can balance between short-term and long-term solutions&nbsp;</li><li>You need to have excellent communication skills</li><li>You are technically proficient enough to solve hard problems independently, but you understand that collaborative solutions are usually better. &nbsp;You’re willing to ask for and offer help to your teammates to achieve the best solution</li></ul><p>&nbsp;</p><p><em>What’s in our stack?</em></p><p>We’re careful to select technologies that are the right fit for solving the specific problem, not just the new hotness. We also place great importance in things we know really well. It’s often the nuances in a language or technology the make or break you in the long run.</p><p>Backend/Core</p><ul><li>Go</li><li>Postgresql</li></ul><p>Frontend:&nbsp;</p><ul><li>VueJS</li><li>Webpack</li><li>NodeJs/Express</li></ul><p>Research/Data Science</p><ul><li>R</li><li>ArcGIS</li><li>Python</li></ul><p>Infrastructure</p><ul><li>Google Cloud</li><li>Kubernetes</li></ul><p>&nbsp;</p><p><em>Everything else:</em></p><p>This is full-time position.</p><p>Compensation is a mix of competitive salary and equity. We offer full benefits (medical, dental, vision) and contribute to your 401K.</p><p>We’re Boston-based, but we have some remote employees i.e. we’re open to any US-based applicants.</p><p>&nbsp;</p><p></p><p><strong>Job Perks:</strong> Equity + full medical benefits + 401K contribution</p><p><strong>Apply:</strong> Send us your resume, GitHub link, or a description of recent projects, and why you'd be a good fit.</p>"
+  },
+  {
     "id": "tBfKAvEvQ4a79dopGrVUWA",
     "url": "https://whereverjobs.com/listing/3536/hotel-data-specialist",
     "title": "Hotel Data Specialist",
