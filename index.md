@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://remote4me.com/
+
 permalink: /
 layout: index
 title: metajob.org - an aggregator for remote jobs 
