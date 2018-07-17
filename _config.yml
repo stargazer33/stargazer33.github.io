@@ -46,7 +46,6 @@ production_url : http://metajob.org
 
 plugins:
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
