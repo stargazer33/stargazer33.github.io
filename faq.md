@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://remote4me.com/about/
+  
 layout: page
 title: F.A.Q.s
 tagline: Frequently Asked Questions (and Answers)

@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://remote4me.com/about/
+
 layout: page
 title: About
 permalink: /about/

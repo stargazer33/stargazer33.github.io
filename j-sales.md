@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://remote4me.com/remote-sales-jobs
+
 permalink: /remote-sales-jobs
 layout: page-jobad-list
 last_modified_at: 2018-07-16T18:37:56+0300

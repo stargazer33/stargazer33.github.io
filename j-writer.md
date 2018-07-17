@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://remote4me.com/remote-copywriter-editor-jobs
+
 permalink: /remote-copywriter-editor-jobs
 layout: page-jobad-list
 last_modified_at: 2018-07-16T18:37:56+0300
