@@ -1,6 +1,47 @@
 {
  "items": [
   {
+    "id": "1WGJoXM-QkeL0dgiKj7hNw",
+    "url": "https://remote.co/job/senior-ruby-full-stack-developer/",
+    "title": "Senior Ruby Full Stack Developer",
+    "tags": [
+      "DBG:surround``2N( OR(across,digit),     2N(OR(distribut, remot), OR(employe,develop,engin,team)) )",
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/16",
+      "DBG_TECH1:k/t/w:ruby/ruby/8",
+      "DBG_TECH1:k/t/w:sass/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=24, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=13}",
+      "REMOTE1/100",
+      "TECH1/ruby",
+      "TITLE1/dev",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "ruby"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 15, 2018 11:27:24 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Senior Ruby Full Stack Developer at <span>Estately</span></h2><div><span><i></i> Remote</span>         | <span> International </span></div><div>            <ul><li>Seattle, WA</li><li>Full-Time</li><li>Experienced</li></ul><p><strong>Description</strong></p><p><strong>What you’ll do:</strong></p><p>You’ll collaborate to build, maintain, and streamline our large application, working with Ruby, Rails, Postgres, and more. Some examples of the work you’ll be doing include the following:</p><ul><li>Working closely with product and design to define and implement new features</li><li>Continually improving our fetching code, which grabs data on millions of properties throughout each day</li><li>Integrating various APIs to give our customers even more info about homes</li><li>Making our website a more delightful experience</li><li>You’ll have both the opportunity and the independence to tackle all kinds of challenges: some days you’ll work on refactoring a legacy part of the app to make it do something new, and on others, you’ll build a brand new, greenfield feature.</li></ul><p><strong>Qualifications</strong></p><ul><li>You have experience architecting, building, and maintaining reliable web applications that serve hundreds of requests per second.</li><li>You care about maintaining a clean, readable, well-tested codebase.</li><li>We work extensively with Ruby, Rails, Postgres, React, and Sass. You have experience with most of these technologies, and are eager to learn new ones.</li><li>You communicate well and collaborate with the whole team, be it to clarify product specifications or work through tough code problems.</li><li>You enjoy mentoring fellow team members in areas where you have expertise and graciously accept mentorship in areas where you have an opportunity to grow.</li></ul><p><strong>About Us:</strong></p><p>We’re a small team focused on opening up the old school real estate world.</p><p>Our goal is to build the best place for people to browse, shop for, and buy homes.</p><p>We employ an iterative approach to building products and deploy multiple times a day.</p><p>We have a big vision.</p><p>We believe in hiring smart people and giving them the support and flexibility to succeed.</p><p>If you work locally, you’ll be in a relaxed and fun office in the Belltown neighborhood.</p><p><strong>We’re looking to hire the best people wherever they are in the world. If you don’t want to relocate to beautiful Seattle, you should be awesome at working from home</strong>&nbsp;<strong>and available to join our daily standup at 9:30am Pacific Time. Some developers live in Seattle and come into the Estately office, while others live and work remotely, including from outside of the United States.&nbsp;</strong>We’ve had remote developers since 2011, and are seasoned veterans of working with a&nbsp;<strong>distributed team</strong>, across multiple time zones.</p><p><strong>Our Hiring Process</strong></p><ul><li>We believe in collaborative interviews where we work with you to solve realistic problems. We interview for practical skills in a one-on-one setting, and strive to use your preferred editor and tools whenever possible. Great candidates don’t usually write code on whiteboards, or implement basic data structures from scratch, so we won’t ask you to do that. We want our recruiting process to be transparent to you. It roughly consists of the following steps:<ul><li><strong>An initial call between you and a member of our team:&nbsp;</strong>We’ll tell you more about the work that you’d be doing, and why we think Estately is a great place to work. You’ll have the opportunity to ask us lots of questions, too. We’ll ask you about your experience and some technical questions, mostly to get a feel for where you’re at as we move forward with the process.</li><li><strong>Individual Exercise</strong><ul><li>We have a few practical challenges to assess technical knowledge.</li><li>Over the course of a few hours, you’ll be fixing a bug in our app (that we’ve previously fixed), so we can see how you approach solving a realistic problem.</li></ul></li><li><strong>Pairing on a Few Potential Features</strong><ul><li>During the pairing exercises, you’ll pair with one of our developers to implement an (existing) feature in the app.</li><li>This will take a couple hours or so, and will mostly consist of discussion about approach, with some coding in the midst of it.</li></ul></li><li><strong>Discussion with representatives from our Product and Design teams</strong><ul><li>As a small team, all of our developers work very closely with product and design.</li><li>These short sessions will give you a chance to meet and speak with the product and design folks that you would be working with on a regular basis.</li></ul></li></ul></li></ul><p><strong>Diversity</strong></p><p>Estately seeks to increase the ratio of women and underrepresented minorities in software engineering and development, we encourage women and people from underrepresented groups to apply for this position. Estately is striving to be a diverse team, made of and built by people with different backgrounds and lifestyles. We don’t discriminate based on race, gender, sexual orientation, marital status, disability, age, religion, color, or any other group.</p>        </div><div>        <a href='http://estately.applytojob.com/apply/job_20180713083245_WH5T9SQ4BNBL7TH5/Senior-Ruby-Full-Stack-Developer' rel='nofollow'>Apply for job</a>    </div>"
+  },
+  {
     "id": "HbHFrFiWRmqUtmAO2pHlOQ",
     "url": "https://whereverjobs.com/listing/3528/backend-hacker-ruby-on-rails",
     "title": "Backend Hacker - Ruby on Rails",
@@ -7516,93 +7557,6 @@
     "published": "May 17, 2018 8:13:43 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div><h2>Senior Ruby Engineer at Zinc Learning Labs</h2><div>Bengaluru, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Javascript, Ruby, Test Driven Development, HTML5 &amp; CSS3, Twitter Bootstrap, Angular.JS, Ruby on Rails, Object Oriented Programming, React.js</div><div>Compensation</div><div>$36K–$96K<br>No Equity</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>Working at Zinc will give you the opportunity to:</p><p>- Build a learning tool that'll help high school kids raise their reading levels.<br>- Unlike most startups which are built by a bunch of engineers who may not always have the required depth in the domain, Zinc's product team is comprised of an amazing set of teachers who have mastered their craft with decades of experience teaching high school kids.<br>- Work with a small group of smart and experienced engineers to build the product. This gives you the freedom and responsibility to shape the technical architecture of the system.<br>- Work on the latest versions of technologies like: Ruby, Rails, Chef and ReactJS. <br>- Work with a team that is quick and efficient in building a product. We release to production at least once a week.</p><p>While working at Zinc, you will be responsible for:</p><p>- Designing and implementing new features. <br>- Implementing both the back-end (on Ruby/Rails) and the front-end (using ReactJS and other Javascript frameworks) components of each feature. <br>- Working in an agile setup with weekly releases.<br>- Driving the implementation of each feature through automated tests.<br>- Being involved in the product requirements and contributing beyond coding by giving suggestions for product features/tweaks.<br>- Keep the application up to date with the latest technologies available. <br>- Refactoring the codebase often to keep the technical debt to a minimum.</p></div>"
-  },
-  {
-    "id": "19jWeKN1TEWMy38tU-ZOpA",
-    "url": "https://angel.co/recroup/jobs/55108-ruby-on-rails-developer",
-    "title": "Ruby on Rails Developer",
-    "tags": [
-      "Backend Developer",
-      "Canada",
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:phonegap/gamedev/2",
-      "DBG_TECH1:k/t/w:phonegap/mobile/8",
-      "DBG_TECH1:k/t/w:ruby-developer/ruby/26",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/24",
-      "DBG_TECH1:k/t/w:ruby/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=8, go=0, nodejs=0, bigdata-ml=0, ruby=58, apple=0, java=0, gamedev=2, php=0, embedded=0, frontend=13}",
-      "Full Time",
-      "Mississauga",
-      "REMOTE1/100",
-      "Remote OK",
-      "Ruby",
-      "Ruby on Rails",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown",
-      "Toronto",
-      "ror, jquery mobile, html5 video, phonegap"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 40000,
-      "maxValue": 55000,
-      "info": "0.5% – 2.0%",
-      "unit": "YEAR",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 16, 2018 6:19:42 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div><h2>Ruby on Rails Developer at Recroup</h2><div>Toronto, Mississauga, Canada, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Ruby, Ruby on Rails, ror, jquery mobile, html5 video, phonegap</div><div>Compensation</div><div>$40K–$55K<br>0.5%–2.0%</div></div><h3>Job Description</h3><div><p>The least technical person in our company is writing the job description for one  of the most technical jobs here. <br>And the reason is that we focus too little on the skills but more on the attitude and passion you bring. <br>Running a business for nearly 4 years, we have realized that no one person can have all the right skills, but your desire to learn and grow is most important. And this is exactly what we celebrate here at Recroup. </p><p>When we started the company, we knew nothing about recruiting industry. Today, we are one of the best known innovators in our industry working with some of the largest RPO and staffing companies in the world. </p><p>So, if you like challenges, long working hours, celebrate small wins with a focus on our larger mission and vision &quot;We are looking for you&quot;.</p><p>At Recroup, we believe the technology is as good as the people who build it. So, you don't need to be the rockstar ROR developer just yet, but if you have passion to become one learning from some of  the smartest coders &quot;We are looking for you&quot;</p><p>Though, we are looking for candidates in Canada but if you can show us why you deserve to be a part of our team we can provide Visa sponsorship for candidates from outside Canada.</p></div>"
-  },
-  {
-    "id": "mNC0HosoTYeQb6UTMw255Q",
-    "url": "http://jobmote.com/jobs/10557-senior-full-stack-rails-engineer-remote",
-    "title": "Senior Full Stack Rails Engineer (remote)",
-    "tags": [
-      "DBG:surround``OR(eastern, east, est, edt, newyork) 3W OR(time,timezon)",
-      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
-      "DBG_TECH1:k/t/w:com/dotnet/8",
-      "DBG_TECH1:k/t/w:ruby-developer/ruby/52",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=8, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=52, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/America/East"
-    ],
-    "tagsNames1": [
-      "US East time zone"
-    ],
-    "tagsNames2": [
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 16, 2018 11:22:31 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Senior Full Stack Rails Engineer (remote) - Jobmote<div><div><h2>Senior Full Stack Rails Engineer (remote)</h2><h5>Riderflex LLC</h5></div></div><div><div><div><div></div></div><div><div><div><p>Description <strong>THIS CAN BE A REMOTE POSITION</strong> </p><p><strong>EQUITY PLANS AVAILABLE</strong><br><strong>Opportunity to work with a rapidly growing tech startup that just received $8. 5M in Series A funding</strong><br><strong>ART19</strong><br>, is a podcast technology company that has become a market leader in its first two years on the market. Customers include iHeartMedia, Midroll, Vox Media, The New York Times, and a long list of top podcast personalities. http://art19. com/</p><ul><li>Title: Senior Full Stack Rails Engineer</li><li>Location: 1999 Harrison, Oakland, CA<br><strong>(remote OK)</strong></li><li>Reports to: Chief Architect</li><li>Direct reports: None</li><li>Type: W-2 Full-Time</li><li>Benefits</li><li>Equity plans available for the right candidates</li><li>Competitive compensation package</li><li>Relocation package available</li><li>Travel reimbursement for out-of-state candidates</li><li><p>Computer provided<strong>Responsibilities</strong> </p></li><li><p>Plan, implement, test, and ship new features</p></li><li><p>Architect and deploy new infrastructure</p></li><li><p>Investigate performance issues and execute optimizations</p></li><li><p>Keep abreast of latest technologies that may be useful</p></li><li><p>Collaboratively analyze new technology proposals</p></li></ul></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
   }
 ]
 }
